@@ -17,6 +17,10 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/grMLEqomlkkU5Eeinz4brIrOVCUCkJuN/nodeaur"
+	},
 	"type": "module",
 	"devDependencies": {
 		"@tsconfig/node22": "^22.0.5",
